@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.foto1 {
+    width: 50%;
+    /* Diminui para metade da largura da tela */
+    max-width: 300px;
+    /* Garante que não passe de 300px */
+
+}
+.box-video {
+    display: flex;         /* Ativa o modo flexível */
+    justify-content: center; /* Centraliza na horizontal */
+    align-items: center;     /* Centraliza na vertical (se houver altura) */
+    width: 100%;           /* Garante que o container use a largura toda */
+    padding: 20px 0;       /* Dá um espaço em cima e embaixo */
+}
+
+.meu-video {
+    width: 500px;          /* O tamanho que você quiser deixar o vídeo */
+    max-width: 90%;        /* Para não cortar em telas de celular */
+}
+ .paragrafo {
+    color:black;
+    line-height: 1.5; /* Espaçamento entre linhas */
+    text-align: justify; /* Alinhamento justificado */
+  }
+
