@@ -45,12 +45,7 @@
   border-radius: 10px; /* Bordas arredondadas */
   box-shadow: 0px 4px 8px rgba(0,0,0,0.5); /* Sombra para destaque */
 }
-.video5 {
-  max-width: 100%;    /* O vídeo nunca fica maior que a tela */
-  height: auto;       /* Mantém a proporção correta */
-  border-radius: 10px; /* Bordas arredondadas */
-  box-shadow: 0px 4px 8px rgba(0,0,0,0.5); /* Sombra para destaque */
-}
+
 
 
 
