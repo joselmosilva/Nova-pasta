@@ -11,21 +11,52 @@
     /* Garante que não passe de 300px */
 
 }
-.box-video {
-    display: flex;         /* Ativa o modo flexível */
-    justify-content: center; /* Centraliza na horizontal */
-    align-items: center;     /* Centraliza na vertical (se houver altura) */
-    width: 100%;           /* Garante que o container use a largura toda */
-    padding: 20px 0;       /* Dá um espaço em cima e embaixo */
+.foto2 {
+    width: 50%;
+    /* Diminui para metade da largura da tela */
+    max-width: 300px;
+    /* Garante que não passe de 300px */
+
+}
+.foto3 {
+    width: 50%;
+    /* Diminui para metade da largura da tela */
+    max-width: 300px;
+    /* Garante que não passe de 300px */
+
+}
+.foto4 {
+     width: 50%;
+    /* Diminui para metade da largura da tela */
+    max-width: 300px;
+    /* Garante que não passe de 300px */
+    
+}
+.foto5 {
+     width: 50%;
+    /* Diminui para metade da largura da tela */
+    max-width: 300px;
+    /* Garante que não passe de 300px */
+    
+}
+.video4 {
+  max-width: 100%;    /* O vídeo nunca fica maior que a tela */
+  height: auto;       /* Mantém a proporção correta */
+  border-radius: 10px; /* Bordas arredondadas */
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.5); /* Sombra para destaque */
+}
+.video5 {
+  max-width: 100%;    /* O vídeo nunca fica maior que a tela */
+  height: auto;       /* Mantém a proporção correta */
+  border-radius: 10px; /* Bordas arredondadas */
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.5); /* Sombra para destaque */
 }
 
-.meu-video {
-    width: 500px;          /* O tamanho que você quiser deixar o vídeo */
-    max-width: 90%;        /* Para não cortar em telas de celular */
-}
+
+
  .paragrafo {
     color:black;
-    line-height: 1.5; /* Espaçamento entre linhas */
+    line-height: 2; /* Espaçamento entre linhas */
     text-align: justify; /* Alinhamento justificado */
   }
 
