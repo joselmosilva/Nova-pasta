@@ -50,8 +50,11 @@
 
 
  .paragrafo {
-    color:black;
-    line-height: 2; /* Espaçamento entre linhas */
-    text-align: justify; /* Alinhamento justificado */
+    
+      width: 50%;
+    /* Diminui para metade da largura da tela */
+    max-width: 300px;
+    /* Garante que não passe de 300px */
+
   }
 
