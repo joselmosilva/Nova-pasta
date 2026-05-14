@@ -68,6 +68,13 @@
 
 
 }
+.foto11{
+    width: 50%;
+    /* Diminui para metade da largura da tela */
+    max-width: 270px;
+    /* Garante que não passe de 300px */
+
+}
 
 .galeria-container {
     display: grid;
