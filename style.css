@@ -4,13 +4,14 @@
     box-sizing: border-box;
 }
 
-.foto1 {
-    width: 50%;
-    /* Diminui para metade da largura da tela */
-    max-width: 300px;
-    /* Garante que não passe de 300px */
 
+.foto01 {
+  text-align: center; /* Alinha o texto exatamente no meio da tela */
+  display: block;     /* Garante que ele se comporte como um bloco inteiro */
+  width: 100%;        /* Ocupa toda a largura disponível para alinhar */
+  margin: 20px auto;  /* Define margem em cima/baixo e centraliza as laterais */
 }
+
 
 .foto2 {
     width: 50%;
