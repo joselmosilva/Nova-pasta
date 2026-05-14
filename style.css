@@ -6,10 +6,14 @@
 
 
 .foto01 {
-  text-align: center; /* Alinha o texto exatamente no meio da tela */
-  display: block;     /* Garante que ele se comporte como um bloco inteiro */
-  width: 100%;        /* Ocupa toda a largura disponível para alinhar */
-  margin: 20px auto;  /* Define margem em cima/baixo e centraliza as laterais */
+    text-align: center;
+    /* Alinha o texto exatamente no meio da tela */
+    display: block;
+    /* Garante que ele se comporte como um bloco inteiro */
+    width: 100%;
+    /* Ocupa toda a largura disponível para alinhar */
+    margin: 20px auto;
+    /* Define margem em cima/baixo e centraliza as laterais */
 }
 
 
@@ -68,7 +72,8 @@
 
 
 }
-.foto11{
+
+.foto11 {
     width: 50%;
     /* Diminui para metade da largura da tela */
     max-width: 270px;
