@@ -43,6 +43,30 @@
     /* Garante que não passe de 300px */
 
 }
+.foto6 {
+    width: 50%;
+    /* Diminui para metade da largura da tela */
+    max-width: 300px;
+    /* Garante que não passe de 300px */
+
+}
+
+.foto7 {
+    width: 50%;
+    /* Diminui para metade da largura da tela */
+    max-width: 300px;
+    /* Garante que não passe de 300px */
+
+}
+
+.foto8 {
+    width: 50%;
+    /* Diminui para metade da largura da tela */
+    max-width: 300px;
+    /* Garante que não passe de 300px */
+
+}
+
 
 .video4 {
     max-width: 100%;
